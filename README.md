@@ -1,1 +1,1 @@
-# A simple real-time chat application (Node, Express, Socket.io)
+## A simple real-time chat application (Node, Express, Socket.io)
